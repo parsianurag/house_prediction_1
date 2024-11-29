@@ -712,5 +712,7 @@ elif page == "Prediction":
 # Footer
 st.sidebar.markdown("""
 ---
-**Developed by Anirudh Parsi**
+**Developed by Anurag Parsi
+                 &
+               Anirudh Parsi**
 """)
